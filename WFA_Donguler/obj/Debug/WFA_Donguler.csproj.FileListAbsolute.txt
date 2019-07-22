@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.exe.config
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.exe
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.pdb
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Form1.resources
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Properties.Resources.resources
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.exe
+C:\Users\murat\source\repos\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.pdb
